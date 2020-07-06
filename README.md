@@ -33,7 +33,7 @@ Dr. Vaneet Aggarwal | Dr. Yexiang Xue
 
 ### Students
 
-<img width="150" height="150" src="glebys.png" href="https://glebysg.github.io/"> | <img width="150" height="150" src="masud.png"> | <img width="150" height="150" src="mridul.png">
+<a href="https://glebysg.github.io/"> <img width="150" height="150" src="glebys.png"> </a> | <img width="150" height="150" src="masud.png"> | <img width="150" height="150" src="mridul.png">
 Glebys Gonzalez | Masudur Rahman | Mridul Agarwal
 <img width="130" height="150" src="mythra.jpg"> | <img width="120" height="150" src="natalia.png"> 
 Mythra V. Balakuntala | Natalia Sanchez Tamayo
