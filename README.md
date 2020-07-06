@@ -10,7 +10,7 @@ We have createda a DESK (DExterous Surgical SKills) dataset which comprises a se
 </p>
 The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/personal/gonza337_purdue_edu/EoSrFoOdZtNCp3vLGtY6TS4Bphq5hkNpd1gjeIyp6fosNA?e=16TOpq)
 
-![Desk Dataset](desk_up.png) 
+![Desk Dataset](desk_all.png) 
 
 
 ## Publications
