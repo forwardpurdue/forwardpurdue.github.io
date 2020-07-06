@@ -1,8 +1,12 @@
 
-h1 {
-  font-size:50px;
-}
 ---
 ---
 
+ nav {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 10px;
+    background: blue;
+   margin: 6px auto;
+}
 @import "{{ site.theme }}";
