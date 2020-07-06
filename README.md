@@ -29,7 +29,7 @@ The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/perso
 <img width="200" height="200" src="wachs.png"> | <img width="200" height="200" src="voyles.png"> 
  Dr. Juan Wachs | Dr. Richard Voyles 
 <img width="160" height="200" src="vaneet.png"> | <img width="200" height="200" src="yexiang.png"> 
-Dr. Vaneed Aggarwal | Dr. Yexiang Xue 
+Dr. Vaneet Aggarwal | Dr. Yexiang Xue 
 
 ### Students
 
