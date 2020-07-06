@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# A Fundamental Theory for Dexterous Surgical Skills Transfer to Medical Robots
+<p style="text-align:justify">
+Semi-autonomous teleoperation has been proposed as a solution for robotic assistance in austere environments. Nevertheless, having a remote teleoperator makes the system vulnerable to delays and cyber-attacks. The goal of the FORwARD project is to develop a semi-autonomous teleoperation framework that can effectively deal with delays. We propose a system where the surgeon performs a procedure in a realistic simulator uninterrupted. The actions of the surgeon are automatically recognized and sent as high level commands to the real robot, where these instructions are performed semi autonomously. Furthermore, we also propose a model for skill transfer between robots. This model is comprised of a robot agnostic framework with the ability of recognizing and performing surgical steps that have been learned in other domains. This framework significantly reduces the amount of visual and kinematic information that needs to be transmited for teleoperation, with minimal changes to the user experience of the surgeon. 
+</p>
+![The FORwARD framework](framework.png)
 
-You can use the [editor on GitHub](https://github.com/forwardpurdue/forwardpurdue.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## DESK Dataset
+<p style="text-align:justify">
+We have createda a DESK (DExterous Surgical SKills) dataset which comprises a set of surgical robotic skills collected during a surgical training task using five robotic platforms: the Taurus II robot, the Taurus II simulated robot, the YuMi robot, the YuMi simulated robot, the da Vinci surgical robot. We conducted extensive experiments with three supervised learning models and provided baselines in each of these scenarios. Results show that using simulation data during training enhances the performance on the real robots, where limited real data is available.
+</p>
+The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/personal/gonza337_purdue_edu/EoSrFoOdZtNCp3vLGtY6TS4Bphq5hkNpd1gjeIyp6fosNA?e=16TOpq)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Desk Dataset](desk_all.png) 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
+- Madapana, N., Rahman, M. M., Sanchez-Tamayo, N., Balakuntala, M. V., Gonzalez, G., Bindu, J. P., ... & Voyles, R. M. (2019, November). DESK: A Robotic Activity Dataset for Dexterous Surgical Skills Transfer to Medical Robots. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 6928-6934). IEEE.
+- Rahman, M. M., Sanchez-Tamayo, N., Gonzalez, G., Agarwal, M., Aggarwal, V., Voyles, R. M., ... & Wachs, J. (2019, October). Transferring Dexterous Surgical Skill Knowledge between Robots for Semi-autonomous Teleoperation. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-6). IEEE.
+- Gonzalez, G., Kaur, U., Rahman, M., Venkatesh, V., Sanchez, N., Hager, G., Xue, Y., Voyles, R., Wachs, J., From the DESK (Dexterous Surgical Skill) to the Battlefield - A Robotics Exploratory Study, Military Medicine (Accepted).
 
-# Header 1
-## Header 2
-### Header 3
+## Members
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+ Dr. Juan Wachs | Dr. Richard Voyles 
+<img width="200" height="200" src="wachs.png"> | <img width="200" height="200" src="voyles.png"> 
+ Dr. Vaneed Aggarwal | Dr. Yexiang Xue 
+<img width="160" height="200" src="vaneet.png"> | <img width="200" height="200" src="yexiang.png"> 
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/forwardpurdue/forwardpurdue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For queries related to the project or dataset please contact Glebys Gonzalez (gonza337@purdue.edu)
