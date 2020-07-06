@@ -2,7 +2,11 @@
 <p style="text-align:justify">
 Semi-autonomous teleoperation has been proposed as a solution for robotic assistance in austere environments. Nevertheless, having a remote teleoperator makes the system vulnerable to delays and cyber-attacks. The goal of the FORwARD project is to develop a semi-autonomous teleoperation framework that can effectively deal with delays. We propose a system where the surgeon performs a procedure in a realistic simulator uninterrupted. The actions of the surgeon are automatically recognized and sent as high level commands to the real robot, where these instructions are performed semi autonomously. Furthermore, we also propose a model for skill transfer between robots. This model is comprised of a robot agnostic framework with the ability of recognizing and performing surgical steps that have been learned in other domains. This framework significantly reduces the amount of visual and kinematic information that needs to be transmited for teleoperation, with minimal changes to the user experience of the surgeon. 
 </p>
-![The FORwARD framework](framework.png)
+
+<p align="center">
+  <img src="framework.png">
+</p>
+
 
 ## DESK Dataset
 <p style="text-align:justify">
