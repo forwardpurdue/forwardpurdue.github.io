@@ -20,13 +20,19 @@ The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/perso
 - Gonzalez, G., Kaur, U., Rahman, M., Venkatesh, V., Sanchez, N., Hager, G., Xue, Y., Voyles, R., Wachs, J., From the DESK (Dexterous Surgical Skill) to the Battlefield - A Robotics Exploratory Study, Military Medicine (Accepted).
 
 ## Members
-
+### Faulty
 
  Dr. Juan Wachs | Dr. Richard Voyles 
 <img width="200" height="200" src="wachs.png"> | <img width="200" height="200" src="voyles.png"> 
  Dr. Vaneed Aggarwal | Dr. Yexiang Xue 
 <img width="160" height="200" src="vaneet.png"> | <img width="200" height="200" src="yexiang.png"> 
 
+### Students
+ Glebys Gonzalez | Masudur Rahman | Mridul Agarwal
+<img width="200" height="200" src="glebys.png"> | <img width="200" height="200" src="masud.png"> | <img width="200" height="200" src="masud.png"> 
+ Mythra V. Balakuntala | Natalia Sanchez Tamayo
+<img width="200" height="200" src="mythra.png"> | <img width="200" height="200" src="natalia.png"> 
+ 
 ### Contact
 
 For queries related to the project or dataset please contact Glebys Gonzalez (gonza337@purdue.edu)
