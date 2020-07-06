@@ -22,17 +22,17 @@ The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/perso
 ## Members
 ### Faulty
 
- Dr. Juan Wachs | Dr. Richard Voyles 
 <img width="200" height="200" src="wachs.png"> | <img width="200" height="200" src="voyles.png"> 
- Dr. Vaneed Aggarwal | Dr. Yexiang Xue 
+ Dr. Juan Wachs | Dr. Richard Voyles 
 <img width="160" height="200" src="vaneet.png"> | <img width="200" height="200" src="yexiang.png"> 
+Dr. Vaneed Aggarwal | Dr. Yexiang Xue 
 
 ### Students
 
-Glebys Gonzalez | Masudur Rahman | Mridul Agarwal
 <img width="150" height="150" src="glebys.png"> | <img width="150" height="150" src="masud.png"> | <img width="150" height="150" src="mridul.png">
-Mythra V. Balakuntala | Natalia Sanchez Tamayo
+Glebys Gonzalez | Masudur Rahman | Mridul Agarwal
 <img width="130" height="150" src="mythra.jpg"> | <img width="120" height="150" src="natalia.png"> 
+Mythra V. Balakuntala | Natalia Sanchez Tamayo
  
 ### Contact
 
