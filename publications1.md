@@ -17,7 +17,7 @@ Datasets are an essential component for training effective machine learning mode
 
 ## [Transferring Dexterous Surgical Skill Knowledge between Robots for Semi-autonomous Teleoperation](https://ieeexplore-ieee-org.ezproxy.lib.purdue.edu/abstract/document/8956396)
 
-Rahman*, M., Sanchez-Tamayo*, N., Gonzalez, G., Agarwal, M., Aggarwal, V., Voyles, R., Xue, Y., Wachs, J. P. (2019, October). In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-6). IEEE.
+Rahman, M., Sanchez-Tamayo, N., Gonzalez, G., Agarwal, M., Aggarwal, V., Voyles, R., Xue, Y., Wachs, J. P. (2019, October). In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-6). IEEE.
 
 <p align="center">
   <img width="640" src="surgeme_rec.png">
