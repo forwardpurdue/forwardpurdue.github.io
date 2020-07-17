@@ -25,7 +25,7 @@ The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/perso
 
 ## Video Archive
 <p align="center">
-  <video src="sartres_vid.mp4" poster="vid_poster.png" width="320" height="200" controls preload></video>  
+  <video src="sartres_vid.mp4" poster="vid_poster.png" width="640" height="480" controls preload></video>  
 </p>
 
 
