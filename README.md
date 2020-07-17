@@ -33,9 +33,9 @@ The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/perso
 ### Faulty
 
 <img width="200" height="200" src="wachs.png"> | <img width="200" height="200" src="voyles.png"> 
- Dr. Juan Wachs | Dr. Richard Voyles 
+ [Dr. Juan Wachs](https://web.ics.purdue.edu/~jpwachs/) | [Dr. Richard Voyles ](https://web.ics.purdue.edu/~rvoyles/)
 <img width="160" height="200" src="vaneet.png"> | <img width="200" height="200" src="yexiang.png"> 
-Dr. Vaneet Aggarwal | Dr. Yexiang Xue 
+[Dr. Vaneet Aggarwal](https://web.ics.purdue.edu/~vaneet/) | [Dr. Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/) 
 
 ### Students
 
