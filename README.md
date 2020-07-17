@@ -23,6 +23,12 @@ The dataset can be accessed [here](https://purdue0-my.sharepoint.com/:f:/g/perso
 - Rahman, M. M., Sanchez-Tamayo, N., Gonzalez, G., Agarwal, M., Aggarwal, V., Voyles, R. M., ... & Wachs, J. (2019, October). Transferring Dexterous Surgical Skill Knowledge between Robots for Semi-autonomous Teleoperation. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-6). IEEE.
 - Gonzalez, G., Kaur, U., Rahman, M., Venkatesh, V., Sanchez, N., Hager, G., Xue, Y., Voyles, R., Wachs, J., From the DESK (Dexterous Surgical Skill) to the Battlefield - A Robotics Exploratory Study, Military Medicine (Accepted).
 
+## Video Archive
+<p align="center">
+  <video src="sartres_vid.mp4" poster="vid_poster.png" width="320" height="200" controls preload></video>  
+</p>
+
+
 ## Members
 ### Faulty
 
