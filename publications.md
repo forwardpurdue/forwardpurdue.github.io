@@ -1,7 +1,5 @@
 # Publications
 
-Publications
-
 ## [DESK: A Robotic Activity Dataset for Dexterous Surgical Skills Transfer to Medical Robots](https://ieeexplore.ieee.org/document/8967760)
 
 Madapana, N., Rahman, M. M., Sanchez-Tamayo, N., Balakuntala, M. V., Gonzalez, G., Bindu, J. P., Venkatesh V. L. N., Zhang X., Barragan-Noguera, J., Low, T. & Voyles, R. M. (2019, November). In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 6928-6934). IEEE.
