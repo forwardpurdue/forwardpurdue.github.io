@@ -18,6 +18,6 @@ The simulation is done in VREP with pyrep for communication and updating simulat
 ## [Object segmentation](https://github.com/MythraV/mrcnn-utils)
 The Mask RCNN utilities for obtaining object segmentations and publishing the masks over ROS.
 <p align="center">
-  <img src="vision.png">
+  <img src="vision_bgd.png">
 </p>
 
