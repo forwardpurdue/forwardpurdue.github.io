@@ -36,4 +36,4 @@ Poster presented at the Military Health System Research Symposium 2019. Journal 
   <img src="poster_image.png">
 </p>
 
-<a href="{{site.baseurl}}/MHSRS poster.pdf" download="MHSRS poster.pdf">Download link</a>
+<a href="{{site.baseurl}}/MHSRS poster.pdf" download="MHSRS poster.pdf">Download MHSRS poster 2019</a>
