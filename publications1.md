@@ -24,3 +24,16 @@ Rahman, M., Sanchez-Tamayo, N., Gonzalez, G., Agarwal, M., Aggarwal, V., Voyles,
 </p>
 
 We propose a methodology that uses compact image representations with kinematic features for surgeme recognition in the DESK dataset. Experimental results show that our approach improves the recognition performance over kinematic data across different domains producing a transfer accuracy gain up to 20% between the simulated and the real robot, and up to 31% between the simulated robot and a different robot. A transfer accuracy gain was observed for all cases, even those already above 90%.
+
+
+## [From the DESK (Dexterous Surgical Skill) to the Battlefield - A Robotics Exploratory Study]()
+
+Gonzalez, G., Kaur, U., Rahman, M., Venkatesh, V., Sanchez, N., Hager, G., Xue, Y., Voyles, R., Wachs, J., Military Medicine
+
+Poster presented at the Military Health System Research Symposium 2019. Journal submitted to military medicine 2020.
+
+<p align="center">
+  <img width="640" src="poster_image.png">
+</p>
+
+<a href="{{site.baseurl}}/MHSRS poster.pdf" download="filename">Download link</a>
