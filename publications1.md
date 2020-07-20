@@ -33,7 +33,7 @@ Gonzalez, G., Kaur, U., Rahman, M., Venkatesh, V., Sanchez, N., Hager, G., Xue, 
 Poster presented at the Military Health System Research Symposium 2019. Journal submitted to military medicine 2020.
 
 <p align="center">
-  <img width="640" src="poster_image.png">
+  <img src="poster_image.png">
 </p>
 
-<a href="{{site.baseurl}}/MHSRS poster.pdf" download="filename">Download link</a>
+<a href="{{site.baseurl}}/MHSRS poster.pdf" download="MHSRS poster.pdf">Download link</a>
