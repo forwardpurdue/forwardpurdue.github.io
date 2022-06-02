@@ -6,7 +6,9 @@ Semi-autonomous teleoperation has been proposed as a solution for robotic assist
 <p align="center">
   <img src="framework.png">
 </p>
-
+<p align="center">
+Framework Video: (https://youtu.be/Gf0AIr21c7U)
+</p>
 
 ## DESK Dataset
 <p style="text-align:justify">
